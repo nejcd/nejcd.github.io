@@ -3,5 +3,5 @@ title: Home
 layout: defaultv2
 ---
 
-Welcome to my little square of internet. I intend to post here articles, tutorials and other projects notes on topics of geospatial analyses, GIS, computers vision, remote sensing and artificial intelligence.
+If you find one of the following topics interesting, you may also find some relevant post on my page. List of topics geospatial analyses, geographical information systems, computer vision, remote sensing, artificial intelligence, location intelligence, geodesy.
  
