@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Setting up Jekyll
+title: My mini Page
 description: >
-  Setting up page with Jekyll
-excerpt_separator: <!--more-->
+  Finally setting up page.  
 ---
 
-I was thinking about setting up my page for some while and this day has finally come. Today I came across Jekyll and it is looking like perfect fit. As I am doing a lot of web development it i had a filling that is unappropriated too use web-page building platform. On the other hand it also seemed like overkill to do everything from scratch. So Jekyll is a perfect fit. No worries with DevOps, no Database, no complex setups. Just some markdown files and git push to Github and that it is.     
+I was thinking about setting up my page for some while and this day has finally come. Today I came across Jekyll and it is looking like a perfect fit. As I am already doing a lot of web development it would feel wrong to use some webpages building platform. On the other hand, it also seemed like overkill to do everything from scratch. So [Jekyll](https://jekyllrb.com/) is a perfect fit. No worries with DevOps, no Database, no complex setups. Just some markdown files and git push and that is it. I have also found this amazing template [HydeJack](https://github.com/hydecorp/hydejack) which served as boiler plate for my page. 
+
